@@ -222,10 +222,9 @@ DIRECTIONS  */
   width: 60px !important;
     }
     .navbar-toggler {
-        outline: #000000;
-        color: #000000;
-        width: 20%;
-        height: 20%;
+        background-color: #000000;
+        color: tan;
+    
     }
     .navbar-nav {
         font-size: 2rem;

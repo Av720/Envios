@@ -230,8 +230,10 @@ DIRECTIONS  */
     .navbar-nav {
         font-size: 2rem;
     }
-   #features, p {
-    font-size: 1.5rem;
+   .service {
+    border: solid;
+    border-style:
+    font-size: 2rem;
    }
    #footer, p {
     margin: 10%;

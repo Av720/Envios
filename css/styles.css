@@ -183,7 +183,7 @@ DIRECTIONS  */
     margin-bottom: 1rem;
 }
 
-@media (max-width: 1040px) {
+@media (max-width: 1000px) {
 
     .main-logo {
         width: 80%

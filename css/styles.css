@@ -230,9 +230,8 @@ DIRECTIONS  */
         font-size: 2rem;
     }
    .service {
-    border: solid;
-    border-style:
     font-size: 2rem;
+    border: solid;
    }
    #footer, p {
     margin: 10%;

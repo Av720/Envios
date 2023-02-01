@@ -237,4 +237,8 @@ DIRECTIONS  */
     margin: 10%;
     font-size: 1rem;
    }
+
+   #hours {
+    width: 100%;
+   }
 }
